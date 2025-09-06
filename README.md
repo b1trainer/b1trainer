@@ -8,22 +8,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A3F7&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+%7C+Hibernate;TypeScript+%7C+React+%7C+MUI;Kafka+%7C+PostgreSQL+%7C+Docker;AI+%7C+Prompt+Engineering" alt="Технологии" />
 </p>
 
----
+<div align="center">
+  
+<table>
+  <tr>
+    <td width="70%">
+      <h2>🧠 Обо мне</h2>
+      <p>
+        Более чем 2-летний опыт в разработке ПО. Мне интересно работать как над бэкендом на Java, так и над фронтендом. В свободное время экспериментирую с AI-агентами и prompt-инжинирингом.
+      </p>
+      <ul>
+        <li>🔭 Сейчас я работаю над <strong>системой управления файловыми интеграциями</strong> в Сбербанк Технологии.</li>
+        <li>🎯 Цель: стать высококлассным специалистом в области <strong>Fullstack-разработки и AI</strong>.</li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5ueWp5cG5qOHozNXBhZ3F2eXh1bDZuN2cyYm1zY3psbDI1cTNxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOKrXLf9N5g76/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5ueWp5cG5qOHozNXBhZ3F2eXh1bDZuN2cyYm1zY3psbDI1cTNxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOKrXLf9N5g76/giphy.gif" width="300"/>
 </div>
-
----
-
-### 🧠 Обо мне
-
-Более чем 2-летний опыт в разработке ПО. Мне интересно работать как над бэкендом на Java, так и над фронтендом. В свободное время экспериментирую с AI-агентами и prompt-инжинирингом.
-
-- 🔭 Сейчас я работаю над **системой управления файловыми интеграциями** в Сбербанк Технологии.
-- 🎯 Цель: стать высококлассным специалистом в области **Fullstack-разработки и AI**.
-
----
 
 <h2>
   🛠️ Tech Stack

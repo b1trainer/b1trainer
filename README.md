@@ -27,15 +27,15 @@
 </table>
 </div>
 
-<h2>
+<h2 align="center">
   🛠️ Tech Stack
 </h2>
 
-<h3>
+<h3 align="center">
   Backend:  
 </h3>
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Hibernate" width="60" height="60"/>&nbsp;
@@ -46,11 +46,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle" alt="Gradle" width="60" height="60"/>&nbsp;
 </div>
 
-<h3>
+<h3 align="center">
   Frontend: 
 </h3>
   
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
@@ -61,11 +61,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="60" height="60"/>&nbsp;
 </div>
 
-<h3>
+<h3 align="center">
   Инструменты:  
 </h3>
 
-<div>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="kubernetes" **alt="kubernetes" width="60" height="60"/>&nbsp;
@@ -75,13 +75,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitbucket" **alt="bitbucket" width="60" height="60"/>&nbsp;
 </div>
 
+---
 
-## 🏆 Codewars
-<p>
+<h3 align="center"> 📊 LeetCode </h3>
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/?username=user4667hX&theme=auto" alt="LeetCode Card">
+</p>
+
+<h3 align="center"> 🏆 Codewars </h3>
+<p align="center">
   <img src="https://www.codewars.com/users/ozzys/badges/large" alt="Codewars Badge"/>
 </p>
 
-## 📊 LeetCode
-<p>
-  <img src="https://leetcode.card.workers.dev/?username=user4667hX&theme=auto" alt="LeetCode Card">
-</p>

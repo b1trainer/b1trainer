@@ -9,7 +9,6 @@
 </p>
 
 <div align="center">
-  
 <table>
   <tr>
     <td width="70%">
@@ -26,14 +25,13 @@
     </td>
   </tr>
 </table>
-
 </div>
 
 <h2>
   🛠️ Tech Stack
 </h2>
 
-<h3 paddingTop="15px">
+<h3>
   Backend:  
 </h3>
 
@@ -48,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle" alt="Gradle" width="60" height="60"/>&nbsp;
 </div>
 
-<h3 paddingTop="15px">
+<h3>
   Frontend: 
 </h3>
   
@@ -63,7 +61,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="60" height="60"/>&nbsp;
 </div>
 
-<h3 paddingTop="15px">
+<h3>
   Инструменты:  
 </h3>
 
@@ -76,3 +74,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" **alt="jira" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitbucket" **alt="bitbucket" width="60" height="60"/>&nbsp;
 </div>
+
+
+## 🏆 Codewars
+<p>
+  <img src="https://www.codewars.com/users/ozzys/badges/large" alt="Codewars Badge"/>
+</p>
+
+## 📊 LeetCode
+<p>
+  <img src="https://leetcode.card.workers.dev/?username=user4667hX&theme=auto" alt="LeetCode Card">
+</p>

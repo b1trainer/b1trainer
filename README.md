@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    Привет!
 </h1>
-<h3 align="center">Я - Fullstack Разработчик (Java/TypeScript) с большим интересом к AI</h3>
+<h3 align="center">Я - Fullstack Разработчик (Java/TypeScript)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A3F7&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+%7C+Hibernate;TypeScript+%7C+React+%7C+MUI;Kafka+%7C+PostgreSQL+%7C+Docker;AI+%7C+Prompt+Engineering" alt="Технологии" />
@@ -19,7 +19,6 @@
       </p>
       <ul>
         <li>🔭 Сейчас я работаю над <strong>системой управления файловыми интеграциями</strong> в Сбербанк Технологии.</li>
-        <li>🎯 Цель: стать высококлассным специалистом в области <strong>Fullstack-разработки и AI</strong>.</li>
       </ul>
     </td>
     <td width="30%" align="center">

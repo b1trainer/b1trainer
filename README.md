@@ -21,8 +21,8 @@
       </p>
     </td>
     <td width="30%" align="center">
-      <!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5ueWp5cG5qOHozNXBhZ3F2eXh1bDZuN2cyYm1zY3psbDI1cTNxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOKrXLf9N5g76/giphy.gif" width="300"/> -->
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQ0c2ZzYmE0ZDBiYmMxN3N6eWhzYzl6MXdxcW9rejYxazkyYnozNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoR3wMdCAHd2r8y19d/giphy.gif" width="300"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5ueWp5cG5qOHozNXBhZ3F2eXh1bDZuN2cyYm1zY3psbDI1cTNxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOKrXLf9N5g76/giphy.gif" width="300"/>
+      <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQ0c2ZzYmE0ZDBiYmMxN3N6eWhzYzl6MXdxcW9rejYxazkyYnozNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoR3wMdCAHd2r8y19d/giphy.gif" width="300"/> -->
     </td>
   </tr>
 </table>

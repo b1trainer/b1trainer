@@ -10,7 +10,7 @@
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://media.giphy.com/media/5WiRzBTVwBvME8R8wJ/giphy.gif" width="180" />

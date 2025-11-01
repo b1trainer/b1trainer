@@ -8,15 +8,4 @@
   <img src="https://raw.githubusercontent.com/b1trainer/b1trainer/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-<h3 align="center"> 📊 LeetCode </h3>
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/?username=user4667hX&theme=auto" alt="LeetCode Card">
-</p>
-
-<h3 align="center"> 🏆 Codewars </h3>
-<p align="center">
-  <img src="https://www.codewars.com/users/ozzys/badges/large" alt="Codewars Badge"/>
-</p>
 

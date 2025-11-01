@@ -13,13 +13,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/5WiRzBTVwBvME8R8wJ/giphy.gif" width="300" />
+      <img src="https://media.giphy.com/media/5WiRzBTVwBvME8R8wJ/giphy.gif" width="200" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/HyTD3grElbE3ERtjJ5/giphy.gif" width="300" />
+      <img src="https://media.giphy.com/media/HyTD3grElbE3ERtjJ5/giphy.gif" width="200" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/efsuCOx738IegSIFs4/giphy.gif" width="300" />
+      <img src="https://media.giphy.com/media/efsuCOx738IegSIFs4/giphy.gif" width="200" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/PS5q4eczFVcOFmLaoB/giphy.gif" width="200" />
     </td>
   </tr>
 </table>

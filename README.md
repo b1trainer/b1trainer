@@ -25,4 +25,18 @@
       <img src="https://media.giphy.com/media/PS5q4eczFVcOFmLaoB/giphy.gif" width="180" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/QTENlIK8uNkaBZWPp1/giphy.gif" width="180" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/InkNlgQtjBOn4guEfc/giphy.gif" width="180" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/CqaIJqaHkz7NjShoD5/giphy.gif" width="180" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/7dusq9P6OtRaA0H9x8/giphy.gif" width="180" />
+    </td>
+  </tr>
 </table>

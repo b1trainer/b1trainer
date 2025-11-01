@@ -8,4 +8,18 @@
   <img src="https://raw.githubusercontent.com/b1trainer/b1trainer/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/5WiRzBTVwBvME8R8wJ/giphy.gif" width="300" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/HyTD3grElbE3ERtjJ5/giphy.gif" width="300" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/efsuCOx738IegSIFs4/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>

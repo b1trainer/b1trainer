@@ -13,30 +13,48 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/5WiRzBTVwBvME8R8wJ/giphy.gif" width="180" />
+      <img src="https://media.giphy.com/media/5WiRzBTVwBvME8R8wJ/giphy.gif" width="100" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/HyTD3grElbE3ERtjJ5/giphy.gif" width="180" />
+      <img src="https://media.giphy.com/media/HyTD3grElbE3ERtjJ5/giphy.gif" width="100" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/efsuCOx738IegSIFs4/giphy.gif" width="180" />
+      <img src="https://media.giphy.com/media/efsuCOx738IegSIFs4/giphy.gif" width="100" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/PS5q4eczFVcOFmLaoB/giphy.gif" width="180" />
+      <img src="https://media.giphy.com/media/PS5q4eczFVcOFmLaoB/giphy.gif" width="100" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/QTENlIK8uNkaBZWPp1/giphy.gif" width="100" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/InkNlgQtjBOn4guEfc/giphy.gif" width="100" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/CqaIJqaHkz7NjShoD5/giphy.gif" width="100" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/QTENlIK8uNkaBZWPp1/giphy.gif" width="180" />
+      <img src="https://media.giphy.com/media/7dusq9P6OtRaA0H9x8/giphy.gif" width="100" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/InkNlgQtjBOn4guEfc/giphy.gif" width="180" />
+      <img src="https://media.giphy.com/media/x0J9zIT7XadOVOKQ2t/giphy.gif" width="100" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/CqaIJqaHkz7NjShoD5/giphy.gif" width="180" />
+      <img src="https://media.giphy.com/media/InkNlgQtjBOn4guEfc/giphy.gif" width="100" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/7dusq9P6OtRaA0H9x8/giphy.gif" width="180" />
+      <img src="https://media.giphy.com/media/avJiIlTppJ7laZi0a9/giphy.gif" width="100" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/6ok4GXbgjhnpQQCDhD/giphy.gif" width="100" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/QnEHSIucpaW8t64OHG/giphy.gif" width="100" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/6OwhNj2kDGoKhW6JBu/giphy.gif" width="100" />
     </td>
   </tr>
 </table>

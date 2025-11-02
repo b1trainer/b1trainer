@@ -48,7 +48,7 @@
       <img src="https://media.giphy.com/media/avJiIlTppJ7laZi0a9/giphy.gif" width="110" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/6ok4GXbgjhnpQQCDhD/giphy.gif" width="110" />
+      <img src="https://media.giphy.com/media/cjHwNDHWErY8iEm3e3/giphy.gif" width="110" />
     </td>
   </tr>
 </table>

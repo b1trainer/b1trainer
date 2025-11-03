@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/b1trainer/b1trainer/output/pacman-contribution-graph.svg">
 </picture>
 
----
+<br></br>
 
 <table align="center">
   <tr>
